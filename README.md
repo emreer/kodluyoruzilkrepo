@@ -20,3 +20,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # License
 [MIT](https://github.com/emreer/kodluyoruzilkrepo/blob/main/LICENSE)
+
+
+![Kodluyoruz Logo]
+(https://kodluyoruz.org/wp-content/uploads/2022/05/kodluyoruz_yatay_slogan-300x35.png)
